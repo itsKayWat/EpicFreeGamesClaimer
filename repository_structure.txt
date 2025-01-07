@@ -1,0 +1,24 @@
+EpicFreeGamesClaimer/
+│
+├── epicgames-claimer.py     # Main script
+├── requirements.py          # Requirements installer
+├── config.ini.example      # Example configuration file
+├── README.md               # Main documentation
+├── README.html            # HTML documentation
+├── README.txt             # Text documentation
+│
+├── logs/                  # Log files directory
+│   └── claimer.log       # Log file
+│
+├── docs/                  # Documentation
+│   ├── CONTRIBUTING.md   # Contribution guidelines
+│   └── CHANGELOG.md      # Version history
+│
+└── .github/              # GitHub specific files
+    ├── workflows/        # GitHub Actions
+    └── ISSUE_TEMPLATE/   # Issue templates
+
+Additional files:
+.gitignore               # Git ignore file
+LICENSE                 # License file
+repository_structure.txt # This file
